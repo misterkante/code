@@ -4,6 +4,8 @@ body{
   margin:0;
   background-color:#349BDc ;
   font-family: 'Ysabeau',arial sans-serif;
+  overflow:auto;
+  
 }
 
 a, a:hover{
